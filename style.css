@@ -1,0 +1,43 @@
+body{
+    background-color: #eeeeeee3;
+}
+h1{
+    font-size: 40px;
+}
+.container{
+    text-align: center;
+
+}
+button{
+    justify-content: center;
+    color: #eee;
+    width: 200px;
+    font-size: 20px;
+    display: flex;
+    border-radius: 10px;
+    border: 45px;
+    padding: 30px;
+    background-color: rgb(29, 81, 192);
+}
+.buttons{
+    display:flex;
+    margin-top: 100px;
+    justify-content: space-around;
+}
+
+#result{
+    margin-left: 760px;
+    margin-top: 200px;
+    width: 300px;
+    background-color: azure;
+    border: 2px solid rgb(0, 0, 0);
+    display: flex;
+    align-content: center;
+    align-items: center;
+    font-size: 30px;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    align-self: center;
+    justify-self: center;
+}
